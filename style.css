@@ -12,44 +12,63 @@ body {
 }
 a {
 	/* color:#C41E3A; */
-	color:#336699;
+	color:#C41E3A; /* #ec8092; */ 
 	background:#eee;
 	/* color:#7F8C8D; #C0392B; #bc5a45; */
 	/* color:#000000; */
 	/* font-weight: bold; */
 }
-
 bullet_title { 
-	color:blue; /* #FF9E0F; */
+	color:#A81E35; /* #FF9E0F; */
 	background:#f3f3f3;
 	/* font-weight: bold; */
 }
 
+comsocvts_journal { 
+	color:black; /* #FF9E0F; */
+	/*background:#eaeaea;*/
+	background:#fae0e4;
+	/* font-weight: bold; */
+}
+
+ieee_journal { 
+	color:black; /* #FF9E0F; */
+	/*background:#eaeaea;*/
+	background:#faf6e0; 
+	/* font-weight: bold; */
+}
+
+
+
 emph1 { /* emphasis level 1 */
-	color:navy; 
+	color:#A81E35; 
 }
 
 emph2 { /* emphasis level 2 */
-	color:#9900FF; /* #FF9E0F; */
+	color:#FF0000; /* #FF9E0F; */
 	/* background:#F4F4F4; */
 	/* font-weight: bold; */
 }
 
 emph_primary { /* emphasis level 0 */
-	color:blue; /* #FF9E0F; */
-}
-
-emph_link { /* emphasis level 2 */
-	color:#336699; /* #FF9E0F; */
-	/* background:#F4F4F4; */
+	color:black; /* #FF9E0F; */
+	/*background:#eaeaea;*/
+	background:#fae0e4;
 	/* font-weight: bold; */
 }
 
+
+emph_link { /* emphasis level 1 */
+	color:#ec8092; 
+}
+
+
 a:hover {
 	color:#fff;
-	background:#336699;
+	background:#C41E3A;
 	text-decoration:none;
 }
+
 h1, h2, h3 {
 	margin:.8em 0 .2em 0;
 	padding:0;
@@ -110,7 +129,8 @@ img {
 	line-height:1.3em;
 }
 #header ul li a:hover {
-	background:#369;
+	background:#C41E3A;
+	/* background:#336699; */
 	color:#fff;
 }
 #header ul li a.active,
