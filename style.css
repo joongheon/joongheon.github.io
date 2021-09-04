@@ -19,6 +19,21 @@ a {
 	/* font-weight: bold; */
 }
 
+comsocvts_journal { 
+	color:black; /* #FF9E0F; */
+	/*background:#eaeaea;*/
+	background:#e6e6ff;
+	/* font-weight: bold; */
+}
+
+ieee_journal { 
+	color:black; /* #FF9E0F; */
+	/*background:#eaeaea;*/
+	background:#e6e6ff;
+	/* font-weight: bold; */
+}
+
+
 bullet_title { 
 	color:blue; /* #FF9E0F; */
 	background:#f3f3f3;
