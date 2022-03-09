@@ -40,9 +40,15 @@ bullet_title {
 	/* font-weight: bold; */
 }
 
-award_title { 
+citation_title { 
 	color:white; /* #FF9E0F; */
 	background:#336699;
+	/* font-weight: bold; */
+}
+
+award_title { 
+	color:white; /* #FF9E0F; */
+	background:#000000;
 	/* font-weight: bold; */
 }
 
