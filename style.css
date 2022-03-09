@@ -40,6 +40,12 @@ bullet_title {
 	/* font-weight: bold; */
 }
 
+award_title { 
+	color:white; /* #FF9E0F; */
+	background:#336699;
+	/* font-weight: bold; */
+}
+
 emph1 { /* emphasis level 1 */
 	color:navy; 
 }
