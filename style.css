@@ -53,6 +53,12 @@ award_title_ONE {
 	/* font-weight: bold; */
 }
 
+award_title_FIVE { 
+	color:white; /* #FF9E0F; */
+	background:#339966;
+	/* font-weight: bold; */
+}
+
 award_title_TWO { 
 	color:white; /* #FF9E0F; */
 	background:#336699;
