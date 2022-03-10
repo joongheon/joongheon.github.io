@@ -45,8 +45,27 @@ citation_title {
 	background:#336699;
 	/* font-weight: bold; */
 }
+/* 	background:#; */
 
-award_title { 
+award_title1 { 
+	color:white; /* #FF9E0F; */
+	background:#993366;
+	/* font-weight: bold; */
+}
+
+award_title2 { 
+	color:white; /* #FF9E0F; */
+	background:#336699;
+	/* font-weight: bold; */
+}
+
+award_title3 { 
+	color:white; /* #FF9E0F; */
+	background:#996633;
+	/* font-weight: bold; */
+}
+
+award_title4 { 
 	color:white; /* #FF9E0F; */
 	background:#000000;
 	/* font-weight: bold; */
