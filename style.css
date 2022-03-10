@@ -47,25 +47,25 @@ citation_title {
 }
 /* 	background:#; */
 
-award_title1 { 
+award_title_ONE { 
 	color:white; /* #FF9E0F; */
 	background:#993366;
 	/* font-weight: bold; */
 }
 
-award_title2 { 
+award_title_TWO { 
 	color:white; /* #FF9E0F; */
 	background:#336699;
 	/* font-weight: bold; */
 }
 
-award_title3 { 
+award_title_THREE { 
 	color:white; /* #FF9E0F; */
 	background:#996633;
 	/* font-weight: bold; */
 }
 
-award_title4 { 
+award_title_FOUR { 
 	color:white; /* #FF9E0F; */
 	background:#000000;
 	/* font-weight: bold; */
